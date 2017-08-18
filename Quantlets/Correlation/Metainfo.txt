@@ -3,6 +3,6 @@ Published in: Statistic Programming Language - Student Project on "Pair trading 
 Description: 'This quantlet downloads all stock data from NASDAQ and calculates the correlation of them. The result of the quantlet gives the top 3 correlated pairs'
 Keywords: correlation, stocks, pair
 Author: Lung Chun Ting, Tim Schwettmann, Maria Theilemann, Cosima Klenner
-Submitted: Friday, August 18, 2017 by 
-Datafile: 'XXX.csv'
-Output: XXX.RData
+Submitted: Friday, August 18, 2017 
+
+Output: CorrelationTable.csv
