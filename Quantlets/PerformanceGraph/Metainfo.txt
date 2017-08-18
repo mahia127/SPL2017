@@ -1,8 +1,14 @@
-Name of Quantlet: XXXX
+Name of Quantlet: Performance Graph
 Published in: Statistic Programming Language - Student Project on "Pair trading strategy"
-Description: 'XXXX'
-Keywords: price, origin, vif, function
+Description: 'This Quantlet creats all the different performance graphs of the acummulated returns.'
+Keywords: return, performance graph, acummulated
 Author: Lung Chun Ting, Tim Schwettmann, Maria Theilemann, Cosima Klenner
-Submitted: Friday, August 18, 2017 by 
-Datafile: 'XXX.csv'
-Output: XXX.RData
+Submitted: Friday, August 18, 2017 
+
+Output: 1-5 pair backtesting.pdf
+11-15 pair backtesting.pdf
+21-25 pair backtesting.pdf
+6181-6181 pair backtesting.pdf
+Portfolio 11-15.pdf
+Portfolio pair 1-5.pdf
+Protfolio 21-25.pdf
