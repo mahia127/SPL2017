@@ -1,7 +1,7 @@
 Name of Quantlet: PerformanceTable
 Published in: Statistic Programming Language - Student Project on "Pair trading strategy"
 Description: 'This quantlet creates the performance tables using the mean, median, quantile(0.25,0.75) and standard diviation of the return
-Keywords: price, origin, vif, function
+Keywords: performance, table, mean, median, quantile, return
 Author: Lung Chun Ting, Tim Schwettmann, Maria Theilemann, Cosima Klenner
 Submitted: Friday, August 18, 2017 
 
