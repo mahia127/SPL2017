@@ -3,6 +3,6 @@ Published in: Statistic Programming Language - Student Project on "Pair trading 
 Description: 'Downloads stockdata from NASDAQ and their AdjustedPrice'
 Keywords: download, stocks, pair
 Author: Lung Chun Ting, Tim Schwettmann, Maria Theilemann, Cosima Klenner
-Submitted: Friday, August 18, 2017 by 
-Datafile: 'XXX.csv'
-Output: XXX.RData
+Submitted: Friday, August 18, 2017 
+
+Output: batchGetSymbole-function
