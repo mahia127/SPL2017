@@ -1,0 +1,8 @@
+Name of Quantlet: Correlation Function
+Published in: Statistic Programming Language - Student Project on "Pair trading strategy"
+Description: 'This quantlet executs the correlation calculation of all NASDAQ stocks.'
+Keywords: function, correlation
+Author: Lung Chun Ting, Tim Schwettmann, Maria Theilemann, Cosima Klenner
+Submitted: Friday, August 18, 2017 by 
+
+Output: correlation_table depending on input
