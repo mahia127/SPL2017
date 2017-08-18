@@ -21,7 +21,9 @@ close all
 TickerSymbol = "NASDAQ"                       #can choose between, "NASDAQ", "AMEX", "NYSE"
 symbols      = stockSymbols(TickerSymbol)     #Storage for the TickerSymbols
 
-#filter several stocks
+# ------------------------------------------------------------------------ #
+# filter several stocks                                                    #
+# ------------------------------------------------------------------------ #
 
 symbols = symbols[!duplicated(symbols [ , 2]) , ]                      # Get rid of the stocks, which has several Symbols for the same Stock
 symbols = filter(symbols,  !is.na(MarketCap))                          # Filtering all the Stocks without MarketCap
@@ -37,13 +39,17 @@ tickers    = symbols$Symbol   # Get rid of all the "useless data, so only the Sy
 first.date = Sys.Date()-150   # today -150 days
 last.date  = Sys.Date()       # if (), it's today
 
-# using BatchGetSymbols
-
+# ------------------------------------------------------------------------ #
+# using BatchGetSymbols                                                    #
+# ------------------------------------------------------------------------ #   
+   
 l.out = BatchGetSymbols(tickers = tickers,                           
                          first.date = first.date,
                          last.date = last.date)   
                          
-# handling the output of l.out
+# ------------------------------------------------------------------------ #
+# using BatchGetSymbols and build the Adjusted_Price Dataframe             #
+# ------------------------------------------------------------------------ # 
 
 Stock_Prices             = l.out$df.tickers                                     # Extracting the adjusted Prices
 Adjusted_Price           = Stock_Prices[-c(1:5)]                                # get rid of all prices Instead of the Adjusted Close Price
