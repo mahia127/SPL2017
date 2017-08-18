@@ -1,8 +1,8 @@
-Name of Quantlet: XXXX
+Name of Quantlet:Portfolio
 Published in: Statistic Programming Language - Student Project on "Pair trading strategy"
-Description: 'XXXX'
-Keywords: price, origin, vif, function
+Description: 'The Portfolio quantlet returns a portfolio of the top stock pairs based on starting and end date and the strategy implemented in strategyExecution'
+Keywords: portfolio, trade, stocks
 Author: Lung Chun Ting, Tim Schwettmann, Maria Theilemann, Cosima Klenner
-Submitted: Friday, August 18, 2017 by 
-Datafile: 'XXX.csv'
-Output: XXX.RData
+Submitted: Friday, August 18, 2017
+
+Output: trade_table_2nd
