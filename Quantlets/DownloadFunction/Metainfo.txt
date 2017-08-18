@@ -1,0 +1,8 @@
+Name of Quantlet: DownloadFunction
+Published in: Statistic Programming Language - Student Project on "Pair trading strategy"
+Description: 'Downloads two different stocks when inputing the symbole e.g. AAPL or IBM'
+Keywords: download, function, stocks, pair
+Author: Lung Chun Ting, Tim Schwettmann, Maria Theilemann, Cosima Klenner
+Submitted: Friday, August 18, 2017 by 
+Datafile: no datafile created
+Output: R function called "data_down"
