@@ -1,8 +1,0 @@
-Name of Quantlet: XXXX
-Published in: Statistic Programming Language - Student Project on "Pair trading strategy"
-Description: 'XXXX'
-Keywords: price, origin, vif, function
-Author: Lung Chun Ting, Tim Schwettmann, Maria Theilemann, Cosima Klenner
-Submitted: Friday, August 18, 2017 by 
-Datafile: 'XXX.csv'
-Output: XXX.RData
