@@ -1,8 +1,8 @@
-Name of Quantlet: XXXX
+Name of Quantlet: RiskManagement
 Published in: Statistic Programming Language - Student Project on "Pair trading strategy"
-Description: 'XXXX'
-Keywords: price, origin, vif, function
+Description: 'This quantlet calculates the value at risk and the expected shortfall of the trade which is input for the function'
+Keywords: value at risk, expected shortfall, trade, function
 Author: Lung Chun Ting, Tim Schwettmann, Maria Theilemann, Cosima Klenner
-Submitted: Friday, August 18, 2017 by 
-Datafile: 'XXX.csv'
-Output: XXX.RData
+Submitted: Friday, August 18, 2017 
+Input: trade_table_2nd
+Output: risk_man (including VaR and ES)
