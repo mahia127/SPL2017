@@ -1,0 +1,8 @@
+Name of Quantlet: StrategyExecution
+Published in: Statistic Programming Language - Student Project on "Pair trading strategy"
+Description: 'This quantlet executs the enter strategy, regarding long and short positioning of two stocks. Furthermore it uses regression to predict future development and based on the result of this regression 2 exit strategies are built'
+Keywords: function, regression, enter, exit, strategy
+Author: Lung Chun Ting, Tim Schwettmann, Maria Theilemann, Cosima Klenner
+Submitted: Friday, August 18, 2017 by 
+Datafile: 'XXX.csv'
+Output: XXX.RData

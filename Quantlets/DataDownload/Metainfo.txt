@@ -1,0 +1,8 @@
+Name of Quantlet: DataDownload
+Published in: Statistic Programming Language - Student Project on "Pair trading strategy"
+Description: 'Downloads data on Apple and IBM stocks'
+Keywords: download, function, stocks, pair
+Author: Lung Chun Ting, Tim Schwettmann, Maria Theilemann, Cosima Klenner
+Submitted: Friday, August 18, 2017 by 
+Datafile: 'XXX.csv'
+Output: XXX.RData
